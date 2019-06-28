@@ -2,8 +2,11 @@
 It's a simple Feedforward Neural Network implemented just using Numpy library.
 
 Libraries :
+
 Numpy : Matrix calculation and most of the code !!!.
+
 Tensorflow: Dataset (MNIST).
+
 Matplotlib : Sample Image Display.
 
 Files :
