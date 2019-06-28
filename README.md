@@ -12,7 +12,7 @@
 
 * Note:
   * You can change the architecture of the model other than that used in test.py.:thumbsup:
-  * Also can use a different datatset but remember dimensions.
+  * Also can use a different datatset but remember the dimensions.
     * x_train: (no_examples, features)
     * y_train: (no_examples, target)
 
