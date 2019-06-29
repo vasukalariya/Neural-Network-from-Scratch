@@ -10,7 +10,7 @@ mnist = tf.keras.datasets.mnist
 x_train = x_train[:10000].reshape(10000,784)
 x_train = x_train/255
 y_train = y_train[:10000]
-x_test = x_test[:1000].reshape(1000,784)
+x_test = x_test[:1000].reshape(1000,784)/255
 y_test = y_test[:1000]
 
 ytrain = np.zeros((10000,10))
