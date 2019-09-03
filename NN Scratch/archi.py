@@ -136,21 +136,3 @@ class Model():
         pred,abc = self.forward(xtdata)
 
         return pred
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-
-        
